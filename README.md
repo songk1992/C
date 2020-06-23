@@ -346,4 +346,4 @@ C 언어를 사용한 네트워크(TCP/IP) 서버/클라이언트 프로그램�
 ****
 
 ## ○ 참고
-* [생능출판 명품 JAVA Programming 황기태, 김효수](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509266&orderClick=LAG&Kc=)
+* [정보문화사 초보자를 위한 C 언어 300제 김은철](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509266&orderClick=LAG&Kc=)
